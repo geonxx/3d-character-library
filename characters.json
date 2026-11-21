@@ -1,0 +1,13 @@
+
+{
+  "characters": [
+    {
+      "id": "mita_1",
+      "name": "Mita",
+      "model": "https://raw.githubusercontent.com/geonxx/3d-character-library/main/characters/mita_1_rigged.glb",
+      "format": "glb",
+      "rigged": true,
+      "animations": "inspect_model"
+    }
+  ]
+}
